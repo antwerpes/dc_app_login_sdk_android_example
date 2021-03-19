@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginAppTest</string>
+    <string name="hello">Hello World, DocCheckLogin2Activity!</string>
+    <string-array name="languages_array">
+        <item>de</item>
+        <item>com</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>nl</item>
+        <item>it</item>
+    </string-array>
+
+</resources>
